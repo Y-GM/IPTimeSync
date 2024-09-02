@@ -1,7 +1,8 @@
 ```markdown
 # IPTImeSync
 
-`IPTimeSync` is a Python-based application that automatically adjusts your system's time based on your geographic location using your IP address.
+`IPTimeSync` is a Python-based application that automatically adjusts your system's
+ time based on your geographic location using your IP address.
 
 ## Features
 
