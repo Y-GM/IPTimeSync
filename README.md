@@ -25,5 +25,7 @@ pip install -r requirements.txt
 3. Run the script:
 
 ```bash
+pip install -r requirements.txt
+
 python IPTImeSync.py
 ```
